@@ -1,0 +1,7 @@
+D:\Users\1213-4\Documents\2-ИСП\Абдурахманова\ОАиП\Файлы\bin\Debug\Файлы.exe.config
+D:\Users\1213-4\Documents\2-ИСП\Абдурахманова\ОАиП\Файлы\bin\Debug\Файлы.exe
+D:\Users\1213-4\Documents\2-ИСП\Абдурахманова\ОАиП\Файлы\bin\Debug\Файлы.pdb
+D:\Users\1213-4\Documents\2-ИСП\Абдурахманова\ОАиП\Файлы\obj\Debug\Файлы.csproj.AssemblyReference.cache
+D:\Users\1213-4\Documents\2-ИСП\Абдурахманова\ОАиП\Файлы\obj\Debug\Файлы.csproj.CoreCompileInputs.cache
+D:\Users\1213-4\Documents\2-ИСП\Абдурахманова\ОАиП\Файлы\obj\Debug\Файлы.exe
+D:\Users\1213-4\Documents\2-ИСП\Абдурахманова\ОАиП\Файлы\obj\Debug\Файлы.pdb
