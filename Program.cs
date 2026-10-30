@@ -1,7 +1,7 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Text;
-
+//  САМОСТОЯТЕЛЬНО ПОПРОБОВАТЬ НА ЗАПИСЬ ТАМ В ЛЕКЦИИ КРЧ
 namespace Файлы
 {
     internal class Program
@@ -18,7 +18,7 @@ namespace Файлы
             //    Console.WriteLine("Файл был удален");
 
             FileStream F1 = new FileStream("test.txt", FileMode.Create);
-            StreamWriter writer = new StreamWriter(F1); //запись в файл
+            StreamWriter writer = new StreamWriter(F1, Encoding.Default); //запись в файл
             //writer.Write("Лиза, вернись((( Настя из-за тебя сломала руку!");
             Random rnd = new Random();
             int number;
